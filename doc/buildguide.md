@@ -18,7 +18,7 @@ PinKeyは本体となる基板とキースイッチ固定用のトッププレ�
 |PinKey トッププレート|1|
 |PinKey ボトムプレート|1|
 |六角スペーサー|6（予備1）|
-|M2ネジ|12（予備2）|
+|M2ネジ|11（予備1）|
 
 ![PinKey内容物](../image/PinKey_contents.jpg)
 
@@ -29,7 +29,7 @@ PinKeyは本体となる基板とキースイッチ固定用のトッププレ�
 |品目|数量|備考|
 |---|---|---|
 |Waveshare RP2040-Zero|1|[Waveshare製RP2040-Zero 純正品](https://www.waveshare.com/wiki/RP2040-Zero)をお勧めします。互換品もありますが動作するかはわかりません|
-|高さ2mm、ピッチ2.54mmのピンヘッダ|23ピン分（9x2、5x1）|RP2040-Zeroにピンヘッダが同梱されていない場合は別途用意してください|
+|ピンヘッダ（高さ2mm、ピッチ2.54mm）|23ピン分（9x2、5x1）|RP2040-Zeroにピンヘッダが同梱されていない場合は別途用意してください|
 |1N4148W ダイオード (SOD123)|64|[Diodes Incorporated社製1N4148W](https://www.diodes.com/part/view/1N4148W)もしくはその互換品|
 |MX互換キースイッチ|64|[Cherry MX](https://www.cherrymx.de/en/dev.html)もしくはその互換品|
 |MX互換スイッチソケット|64|[Kailh PCB Socket CPG151101S11](https://www.kailhswitch.com/mechanical-keyboard-switches/box-switches/mechanical-keyboard-switches-kailh-pcb-socket.html)もしくはその互換品|
