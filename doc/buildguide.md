@@ -165,7 +165,7 @@ M2と書かれたネジ穴が5ヶ所ありますので、基板表面からネ�
 
 https://github.com/ymkn/PinKey/blob/main/firmware/QMK/default_layout_jp.vil
 
-> ![WARNING]
+> [!WARNING]
 > RP2040-Zeroをリセット（BOOTボタンを押しながらRESETボタンを押す）すると、既定のレイアウトに戻ってしまいます。
 
 ### 5.3 漢字キー（日本語入力On/Off用のキー）について
